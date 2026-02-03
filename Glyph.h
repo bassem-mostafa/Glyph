@@ -51,7 +51,7 @@
 // #### Public Type(s) #########################################################
 // #############################################################################
 
-// FIXME Support Multiple Glyph Types
+// TODO Support Multiple Glyph Types
 // typedef enum Glyph_Type
 //{
 //  Glyph_Type_1_PixelPerByte = 0,
@@ -62,8 +62,8 @@
 
 typedef struct Glyph
 {
-    // FIXME Support Multiple Glyph Types
-    //  const Glyph_Type_t Type;
+    // TODO Support Multiple Glyph Types
+    // const Glyph_Type_t Type;
     const uint32_t Width;
     const uint8_t Content[];
 } Glyph_t;
