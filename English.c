@@ -264,11 +264,11 @@ const Glyph_t Glyph_EN_l = {
 };
 const Glyph_t Glyph_EN_m = {
     .Width = 7,
-    .Content = { 0x04, 0x18, 0x04, 0x08, 0x04, 0x18, 0x00 }
+    .Content = { 0x02, 0x1C, 0x02, 0x0C, 0x02, 0x1C, 0x00 }
 };
 const Glyph_t Glyph_EN_n = {
     .Width = 5,
-    .Content = { 0x04, 0x18, 0x04, 0x18, 0x00 }
+    .Content = { 0x02, 0x1C, 0x02, 0x1C, 0x00 }
 };
 const Glyph_t Glyph_EN_o = {
     .Width = 5,
@@ -288,7 +288,7 @@ const Glyph_t Glyph_EN_r = {
 };
 const Glyph_t Glyph_EN_s = {
     .Width = 4,
-    .Content = { 0x12, 0x15, 0x09, 0x00 }
+    .Content = { 0x14, 0x16, 0x0A, 0x00 }
 };
 const Glyph_t Glyph_EN_t = {
     .Width = 4,
@@ -296,7 +296,7 @@ const Glyph_t Glyph_EN_t = {
 };
 const Glyph_t Glyph_EN_u = {
     .Width = 7,
-    .Content = { 0x0C, 0x10, 0x10, 0x0C, 0x10, 0x10, 0x00 }
+    .Content = { 0x0E, 0x10, 0x10, 0x0E, 0x10, 0x10, 0x00 }
 };
 const Glyph_t Glyph_EN_v = {
     .Width = 4,
@@ -304,7 +304,7 @@ const Glyph_t Glyph_EN_v = {
 };
 const Glyph_t Glyph_EN_w = {
     .Width = 6,
-    .Content = { 0x0C, 0x10, 0x08, 0x10, 0x0C, 0x00 }
+    .Content = { 0x0E, 0x10, 0x0C, 0x10, 0x0E, 0x00 }
 };
 const Glyph_t Glyph_EN_x = {
     .Width = 4,
